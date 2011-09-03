@@ -1,0 +1,41 @@
+* Lambda Calculus
+* Halting Problem
+* The Numeric Tower (Dividing between Algebraics and Transcendentals)
+** Counting Numbers
+** Peano Arithmetic
+*** Addition
+*** Multiplication
+*** Proof By Induction
+*** Proof that addition and multiplication are commutative
+** Integers
+** Rationals
+** Reals
+** Complex
+** Quarternions
+
+
+* Pythagoras's Theorem
+* Combinators (S and K)
+* Propositional Logic
+* First Order Predicate Logic
+* Higher Order Predicate Logic
+* Intuitionistic Logic
+* Type Theory
+* Category Theory
+* Curry Howard Isomorphism
+* Turing Machines and the Halting Problem
+* Graph Theory
+* Abacus Machines (To Cover with Martin)
+* Set Theory
+* Soundness and Completeness Theorems
+* Godel's Incompleteness Theorem
+* Primitive Recursion
+* Ackermann's Function
+* Partial Orderings
+* Probability Theory
+* Combinatorics
+* Big O Notation (Space-Time Complexity)
+* The Y Combinator
+* Cantor's Diagonal Argument
+*
+* Probably more stuff
