@@ -5,6 +5,10 @@
 ** Peano Arithmetic
 *** Addition
 *** Multiplication
+*** Exponentiation
+**** Why are Addition and Multiplication important? 
+Because they form a totally ordered group
+
 *** Proof By Induction
 *** Proof that addition and multiplication are commutative
 ** Integers
@@ -12,7 +16,6 @@
 ** Reals
 ** Complex
 ** Quarternions
-
 
 * Pythagoras's Theorem
 * Combinators (S and K)
@@ -37,5 +40,5 @@
 * Big O Notation (Space-Time Complexity)
 * The Y Combinator
 * Cantor's Diagonal Argument
-*
 * Probably more stuff
+s
